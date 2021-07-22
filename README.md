@@ -1,3 +1,5 @@
+https://www.youtube.com/watch?v=NWzhxIb5Y0s
+
 [LIVE DEMO](https://komodo.redstone.finance) on the Kovan testnet
 
 # Komodo - Commodities trading protocol
